@@ -599,7 +599,7 @@ A deck that opens well but runs out of steam too quickly is not considered a str
 CANDIDATE DECK COMPARISON RULE
 ============================================================
 
-Before finalizing, generate 2-4 realistic candidate decks that all satisfy the user's request.
+Before finalizing, generate 4 realistic candidate decks that all satisfy the user's request.
 
 Each candidate must represent a meaningfully different shell, such as:
 - safest / smoothest build
