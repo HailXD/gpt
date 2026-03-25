@@ -68,14 +68,17 @@ Rules:
 Formatting requirements:
 - Use this exact top-level structure:
   # Cards
-  ## {Actual Card Name}
+  ## {Actual Card Name}\n
   {Keywords} - {Meaning}
 
+  ## {Actual Card Name}\n
+  {Keywords} - {Meaning}
+  
   # Implications
   ...
   Suggested Action: ...
 
-  # Implications (Stocks)
+  # Implications (Stocks)\n
   **Monday:** ...
   **Tuesday:** ...
   ...
